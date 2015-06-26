@@ -46,12 +46,23 @@ public final class Gravatar {
 	private GravatarRating rating = DEFAULT_RATING;
 	private GravatarDefaultImage defaultImage = DEFAULT_DEFAULT_IMAGE;
 
+	/**
+	 * Default constructor with fields.
+	 * 
+	 * @param size
+	 * @param rating
+	 * @param defaultImage
+	 */
 	public Gravatar(int size, GravatarRating rating, GravatarDefaultImage defaultImage) {
         this.size = size;
         this.rating = rating;
         this.defaultImage = defaultImage;
     }
 	
+	/**
+	 * Constructor with default fields.
+	 * 
+	 */
 	public Gravatar() {
 		this(DEFAULT_SIZE, DEFAULT_RATING, DEFAULT_DEFAULT_IMAGE);
 	}

@@ -3,6 +3,8 @@ package org.helianto.jgravatar;
 
 /**
  * 
+ * Enum with default values to avatar when not found.
+ * 
  * @author Ralf Ebert  <a href="https://github.com/ralfebert/jgravatar"> Site on gitHub</a>
  * @author Eldevan Nery Junior
  *
