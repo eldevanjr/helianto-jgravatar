@@ -1,7 +1,7 @@
 # helianto-jgravatar
  Implementation of <a href="https://github.com/ralfebert/jgravatar"> Ralf Ebert </a> of jgravatar as Maven project.
 
-it's a tiny Java library for accessing avatar images from gravatar.com.
+it's a tiny Java library for accessing avatar images from gravatar.com, and add values on GravatarDefaultImage.java and define default constructor to Gravatar.java from Ralf Ebert implementation.
 
 ## Download and usage
 
