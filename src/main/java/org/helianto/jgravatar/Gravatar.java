@@ -34,7 +34,6 @@ import org.apache.commons.lang3.Validate;
  * @author Eldevan Nery Junior
  *  
  */
-
 public final class Gravatar {
 
 	private final static int DEFAULT_SIZE = 80;
